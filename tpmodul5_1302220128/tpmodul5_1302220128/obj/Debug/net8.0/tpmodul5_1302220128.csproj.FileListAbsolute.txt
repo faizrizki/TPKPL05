@@ -1,0 +1,14 @@
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\bin\Debug\net8.0\tpmodul5_1302220128.exe
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\bin\Debug\net8.0\tpmodul5_1302220128.deps.json
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\bin\Debug\net8.0\tpmodul5_1302220128.runtimeconfig.json
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\bin\Debug\net8.0\tpmodul5_1302220128.dll
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\bin\Debug\net8.0\tpmodul5_1302220128.pdb
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\obj\Debug\net8.0\tpmodul5_1302220128.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\obj\Debug\net8.0\tpmodul5_1302220128.AssemblyInfoInputs.cache
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\obj\Debug\net8.0\tpmodul5_1302220128.AssemblyInfo.cs
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\obj\Debug\net8.0\tpmodul5_1302220128.csproj.CoreCompileInputs.cache
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\obj\Debug\net8.0\tpmodul5_1302220128.dll
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\obj\Debug\net8.0\refint\tpmodul5_1302220128.dll
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\obj\Debug\net8.0\tpmodul5_1302220128.pdb
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\obj\Debug\net8.0\tpmodul5_1302220128.genruntimeconfig.cache
+C:\Users\mrizk\Documents\Rizki\Tugas\Semester 4\KPL\TPKPL04\tpmodul5_1302220128\tpmodul5_1302220128\obj\Debug\net8.0\ref\tpmodul5_1302220128.dll
